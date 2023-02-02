@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.479,=D:\rad studio\saves\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.679,D:\rad studio\saves\Project1PCH1.h=D:\callэжд\Программирование\Четвертый курс\конструирование пз\fabricmethod\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.795,D:\rad studio\saves\class_Displays.cpp=D:\callэжд\Программирование\Четвертый курс\конструирование пз\fabricmethod\class_Displays.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.410,=D:\rad studio\saves\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.671,D:\rad studio\saves\Main.h=D:\callэжд\Программирование\Четвертый курс\конструирование пз\fabricmethod\Main.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.903,D:\rad studio\saves\Unit1.dfm=D:\rad studio\saves\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.196,=D:\rad studio\saves\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.756,D:\rad studio\saves\class_Fabrics.h=D:\callэжд\Программирование\Четвертый курс\конструирование пз\fabricmethod\class_Fabrics.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.995,D:\rad studio\saves\Project1.cbproj=D:\callэжд\Программирование\Четвертый курс\конструирование пз\fabricmethod\fabricmethod.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.661,D:\callэжд\Программирование\Четвертый курс\конструирование пз\fabricmethod\class_Fabrics.h=D:\callэжд\Программирование\Четвертый курс\конструирование пз\fabricmethod\class_Factorys.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.655,D:\rad studio\saves\Unit2.h=D:\rad studio\saves\class_Fabrics.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.671,D:\rad studio\saves\Main.dfm=D:\callэжд\Программирование\Четвертый курс\конструирование пз\fabricmethod\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.903,D:\rad studio\saves\Unit1.h=D:\rad studio\saves\Main.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.304,D:\rad studio\saves\Unit2.h=D:\rad studio\saves\Displays.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.052,D:\rad studio\saves\Displays.h=D:\rad studio\saves\class_Displays.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.976,D:\callэжд\Программирование\Четвертый курс\конструирование пз\fabricmethod\Project1PCH1.h=D:\callэжд\Программирование\Четвертый курс\конструирование пз\fabricmethod\fabricmethodPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.661,D:\callэжд\Программирование\Четвертый курс\конструирование пз\fabricmethod\class_Fabrics.cpp=D:\callэжд\Программирование\Четвертый курс\конструирование пз\fabricmethod\class_Factorys.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.499,=D:\rad studio\saves\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.655,D:\rad studio\saves\Unit2.cpp=D:\rad studio\saves\class_Fabrics.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.107,=D:\rad studio\saves\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.304,D:\rad studio\saves\Unit2.cpp=D:\rad studio\saves\Displays.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.302,=D:\rad studio\saves\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.671,D:\rad studio\saves\Main.cpp=D:\callэжд\Программирование\Четвертый курс\конструирование пз\fabricmethod\Main.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.052,D:\rad studio\saves\Displays.cpp=D:\rad studio\saves\class_Displays.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.795,D:\rad studio\saves\class_Displays.h=D:\callэжд\Программирование\Четвертый курс\конструирование пз\fabricmethod\class_Displays.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.756,D:\rad studio\saves\class_Fabrics.cpp=D:\callэжд\Программирование\Четвертый курс\конструирование пз\fabricmethod\class_Fabrics.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.289,=D:\rad studio\saves\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.942,=D:\rad studio\saves\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.903,D:\rad studio\saves\Unit1.cpp=D:\rad studio\saves\Main.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
